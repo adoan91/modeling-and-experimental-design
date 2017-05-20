@@ -1,0 +1,5 @@
+Run Parameters: PRIM( Run Parameters: PRIM( ,Run Parameters: PRIM( ,,,Run Parameters: PRIM( ,,,, ) 
+Run Parameters: PRIM( 17000,17000,0,0,3,251 ) 
+Total number of days, per run: 251
+RP 17000  has Max Avg Profit of  0
+ ++++++++++++++   End of this Multi-run Experiment   +++++++++++++ 
